@@ -1,4 +1,4 @@
-# MultipleNodesScalingCUDACPPApplications
+# Multiple Nodes Scaling CUDA C++ Applications
 Scaling CUDA C++ Applications to Multiple Nodes
 
 * Skills-based coding assessment: Students must refactor a single-GPU 1D wave function solver to be GPU-cluster-ready with NVSHMEM.
