@@ -2,7 +2,7 @@
 Scaling CUDA C++ Applications to Multiple Nodes
 
 * Skills-based coding assessment: Students must refactor a single-GPU 1D wave function solver to be GPU-cluster-ready with NVSHMEM.
-* Tools, libraries, and frameworks: CUDA, MPI, NVSHMEM
+* Tools, libraries, and frameworks: CUDA, MPI, NVSHMEM, CUB (https://nvlabs.github.io/cub/)
 
 Present-day high-performance computing (HPC) and deep learning applications benefit from, and even require, cluster-scale GPU compute power. Writing CUDA® applications that can correctly and efficiently utilize GPUs across a cluster requires a distinct set of skills. In this workshop, you’ll learn the tools and techniques needed to write CUDA C++ applications that can scale efficiently to clusters of NVIDIA GPUs. 
 
