@@ -17,3 +17,4 @@ NVSHMEM is a parallel programming interface based on OpenSHMEM that provides eff
 * Improve multi-GPU SPMD code with NVSHMEM’s symmetric memory model and its ability to perform GPU-initiated data transfers
 * Get practice with common multi-GPU coding paradigms like domain decomposition and halo exchanges
 
+MPI + CUDA =  Single Program, Multiple Data (SPMD)
